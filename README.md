@@ -1,1 +1,32 @@
-<div class='tableauPlaceholder' id='viz1732977417814' style='position: relative'><noscript><a href='#'><img alt='Football Manager Wonderkids Analytics Dashboard ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;FM&#47;FMWonderkidDashboard&#47;WonderkidsRegions&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='FMWonderkidDashboard&#47;WonderkidsRegions' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;FM&#47;FMWonderkidDashboard&#47;WonderkidsRegions&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-GB' /></object></div>                <script type='text/javascript'>                    var divElement = document.getElementById('viz1732977417814');                    var vizElement = divElement.getElementsByTagName('object')[0];                    if ( divElement.offsetWidth > 800 ) { vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';} else if ( divElement.offsetWidth > 500 ) { vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';} else { vizElement.style.width='100%';vizElement.style.height='727px';}                     var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>
+# FM24: Wonderkid Recruiting Analysis
+
+This project involves data-driven analysis of recruiting wonderkids in the **Football Manager (FM)** simulation game to identify top young talent.
+
+## Project Overview
+
+The goal of this analysis is to use data from **Football Manager 24** to evaluate and identify the most promising young players, referred to as **wonderkids**, who are expected to perform well in the game over time. The project includes:
+
+- A deep dive into player attributes, growth potential, and career progression.
+- An analysis of different regions and leagues to identify hotspots for recruiting wonderkids.
+- A **Tableau dashboard** that visualizes the results of the analysis, allowing users to interact and explore data on various wonderkids.
+
+### Project Preview
+
+![FM24 Wonderkid Recruiting](images/project/3rd project fm24 analysis.png)
+
+### Explore More
+
+- [View on GitHub](https://github.com/haikalfitri/Football-Manager-24-Analysis)
+- [View Project on Tableau](https://public.tableau.com/views/FMWonderkidDashboard/WonderkidsRegions?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+## Technologies Used
+
+- **Python**: Data processing and analysis.
+- **Tableau**: Data visualization for the dashboard.
+- **Football Manager 24**: Game simulation and player data.
+
+## How to Use
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/haikalfitri/Football-Manager-24-Analysis.git
