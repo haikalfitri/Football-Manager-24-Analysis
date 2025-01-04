@@ -1,6 +1,6 @@
 # FM24: Wonderkid Recruiting Analysis
 
-This project involves data-driven analysis of recruiting wonderkids in the **Football Manager (FM)** simulation game to identify top young talent.
+This project employs a data-driven approach to analyze and identify top young talent, often referred to as wonderkids, in the popular Football Manager (FM) simulation game. By examining various player attributes, growth potential, and career trajectories, this analysis seeks to uncover the hidden gems that are most likely to thrive and become future football stars, providing valuable insights for in-game recruitment strategies.
 
 ## Project Overview
 
