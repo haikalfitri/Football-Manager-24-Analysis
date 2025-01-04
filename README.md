@@ -14,4 +14,4 @@ The goal of this analysis is to use data from **Football Manager 24** to evaluat
 
 ![FM24 Wonderkid Recruiting](https://github.com/haikalfitri/Football-Manager-24-Analysis/blob/main/Assets/homepage.png)
 
-- [View Project on Tableau](https://public.tableau.com/views/FMWonderkidDashboard/WonderkidsRegions?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+To view the interactive dashboard on Tableu Public, please click the link: (https://public.tableau.com/views/FMWonderkidDashboard/WonderkidsRegions?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
